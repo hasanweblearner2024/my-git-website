@@ -1,0 +1,17 @@
+h1{
+    background-color: green;
+}
+p{
+    background-color: blue;
+    color: red;
+}
+div{
+    background-color: tan;
+    color: brown;
+    margin: 5px;
+    padding: 10px;
+}
+img{
+    width: 100px;
+    height: 150px;
+}
